@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV3Coder.ConsoleApp", "EV3Coder.ConsoleApp\EV3Coder.ConsoleApp.csproj", "{B056BD9B-6002-48DE-9AA8-A40DEE7C949B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV3Coder.Test", "EV3Coder.Test\EV3Coder.Test.csproj", "{742105FA-DAC4-47A0-B55E-1CC37FE900C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B056BD9B-6002-48DE-9AA8-A40DEE7C949B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B056BD9B-6002-48DE-9AA8-A40DEE7C949B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B056BD9B-6002-48DE-9AA8-A40DEE7C949B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B056BD9B-6002-48DE-9AA8-A40DEE7C949B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742105FA-DAC4-47A0-B55E-1CC37FE900C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742105FA-DAC4-47A0-B55E-1CC37FE900C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742105FA-DAC4-47A0-B55E-1CC37FE900C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742105FA-DAC4-47A0-B55E-1CC37FE900C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
