@@ -1,0 +1,4 @@
+C:\git\EV3Coder\EV3Coder\EV3Coder.Console\obj\Debug\netcoreapp2.1\EV3Coder.Console.csprojAssemblyReference.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Console\obj\Debug\netcoreapp2.1\EV3Coder.Console.csproj.CoreCompileInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Console\obj\Debug\netcoreapp2.1\EV3Coder.Console.AssemblyInfoInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Console\obj\Debug\netcoreapp2.1\EV3Coder.Console.AssemblyInfo.cs

@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9741664-37c8-4bba-9fb2-828de4638282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/EV3Coder.Test/BrickControllerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.Test/BrickControllerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.Test/BrickIntegrationTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.Test/BrickIntegrationTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.Test/MockCommunication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.Test/MockCommunication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainApplication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainApplication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/iOSBluetoothCommunication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/iOSBluetoothCommunication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/IXamarinCommunication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/IXamarinCommunication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EV3Coder.sln" beforeDir="false" afterPath="$PROJECT_DIR$/EV3Coder.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lego.Ev3.Core/BluetoothCommunication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Lego.Ev3.Core/BluetoothCommunication.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>outputready</find>
+      <find>OutputReadyAsync</find>
+      <find>#if</find>
+      <find>write</find>
+      <find>characteristic</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/EV3Coder.Test/MockCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A75ED570-94B3-4DEE-BF87-E20A6A7D6E6A/5c/74641ef1/Brick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/iOSBluetoothCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainActivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A75ED570-94B3-4DEE-BF87-E20A6A7D6E6A/8f/7ab28693/DirectCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Resources/Resource.designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C123CE2F-8E49-47F9-9BE6-F39A957D91EE/13/157ba71a/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.ConsoleParser/InputParser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.Test/InputParserTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.Core/BrickController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34033585-18E7-4A1B-9940-90A667CA61BB/0e/a1b10e93/SerialData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/BrickButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/SystemCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Port.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DataReceivedEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/BrickChangedEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DummyCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34033585-18E7-4A1B-9940-90A667CA61BB/77/db4d534c/SerialPort.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DirectCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.Test/BrickIntegrationTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/ICommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Brick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/IXamarinCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.ConsoleParser/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/ResponseManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2DD5A308-E4FE-43CD-BEE5-665E004D9324/6b/e3884e47/IDevice.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.Test/BrickControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Command.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainApplication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lego.Ev3.Core/HidImports.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lego.Ev3.Core/BluetoothCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lego.Ev3.Core/UsbCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lego.Ev3.Core/NetworkCommunication.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A75ED570-94B3-4DEE-BF87-E20A6A7D6E6A/5c/88ec6e31/BluetoothCommunication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleCoder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/AppDelegate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01C9D5E9-7A62-4528-A7BB-D4AC8CF2ADDE/35/983eae25/CBCentralManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EV3Coder.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Console/InputParser.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Console/EV3Coder.Console.csproj" />
+        <option value="$PROJECT_DIR$/EV3Coder.Console/Program.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Test/MockCommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.ConsoleApp/InputParser.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.ConsoleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.ConsoleParser/Program.cs" />
+        <option value="$PROJECT_DIR$/Lego.Ev3.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/Lego.Ev3.Core/BluetoothCommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.ConsoleParser/InputParser.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Test/BrickControllerTests.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Core/BrickController.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Resources/Resource.designer.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Command.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Brick.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Port.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DummyCommunication.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/SystemCommand.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/BrickChangedEventArgs.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DataReceivedEventArgs.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DirectCommand.cs" />
+        <option value="$PROJECT_DIR$/ConsoleCoder/Program.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Test/BrickIntegrationTests.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.Test/InputParserTests.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Properties/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainApplication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainActivity.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/XamarinBluetoothCommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/IXamarinCommunication.cs" />
+        <option value="$PROJECT_DIR$/../../lego/Lego.Ev3.Core/ICommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/iOSBluetoothCommunication.cs" />
+        <option value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/Info.plist" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="EV3Coder.XamarinController.Android/invalid/Android Facet - EV3Coder.XamarinController.Android" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1905" />
+    <option name="width" value="1950" />
+    <option name="height" value="2100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EV3Coder" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="device.picker.selection" value="Android_Accelerated_x86_Oreo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lego/Lego.Ev3.Desktop/Lego.Ev3.Desktop.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="UWP.UWP Default">
+    <configuration name="ConsoleCoder" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleCoder/bin/Debug/netcoreapp2.1/ConsoleCoder.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleCoder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleCoder/ConsoleCoder.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/EV3Coder.ConsoleApp/bin/Debug/netcoreapp2.1/EV3Coder.ConsoleApp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EV3Coder.ConsoleApp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EV3Coder.ConsoleParser/EV3Coder.ConsoleParser.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UWP Default" type="UwpProject" factoryName="UWP">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/EV3Coder.XamarinController.Android.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ConsoleCoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9741664-37c8-4bba-9fb2-828de4638282" name="Default Changelist" comment="" />
+      <created>1549148261384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549148261384</updated>
+      <workItem from="1549148262685" duration="417000" />
+      <workItem from="1549148688577" duration="203000" />
+      <workItem from="1549148921720" duration="16372000" />
+      <workItem from="1549221183924" duration="1109000" />
+      <workItem from="1549326692922" duration="7571000" />
+      <workItem from="1549730995398" duration="9494000" />
+      <workItem from="1549812436552" duration="4131000" />
+      <workItem from="1549860398072" duration="597000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created a Roslyn runtime compiler for c# commands">
+      <created>1549156497873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549156497873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39894000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33936957" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33519554" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32960895" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32960895" />
+      <window_info anchor="bottom" id="Android Profiler" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="17" />
+      <window_info anchor="bottom" id="XAML Preview" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.20590208" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.3293092" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="217" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a Roslyn runtime compiler for c# commands" />
+    <MESSAGE value="Xamarin stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Xamarin stuff" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs</url>
+          <line>92</line>
+          <properties documentPath="$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs" initialLine="92">
+            <startOffsets>
+              <option value="2616" />
+              <option value="2638" />
+              <option value="2673" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2692" />
+              <option value="2690" />
+              <option value="2679" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EV3Coder.ConsoleParser/EV3Coder.ConsoleParser.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lego.Ev3.Core/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/EV3Coder.ConsoleParser/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.Rider2018.3/system/log/UnitTestLogs/ce7a0b7b-3bad-40c7-97ae-efd91211a3cf___2019-02-03-11-22-29-300.log" />
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Desktop/Lego.Ev3.Desktop.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lego.Ev3.Core/HidImports.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <marker date="1549134600520" expanded="true" signature="0:468" ph="/* HIDImports.cs ... */" />
+            <marker date="1549134600520" expanded="false" signature="476:573" ph="..." />
+            <marker date="1549134600520" expanded="true" signature="601:8134" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="605:697" ph="/// Win32 import information for use with the Wiimote library ... " />
+            <marker date="1549134600520" expanded="true" signature="724:8132" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="730:841" ph="/* Flags controlling what is included in the device information set built ... */" />
+            <marker date="1549134600520" expanded="true" signature="1210:2119" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="2123:3712" ph="/* FACILITY_HID_ERROR_CODE == 0x11 ... */" />
+            <marker date="1549134600520" expanded="true" signature="3860:3968" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="4050:4163" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="4262:4381" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="4454:4566" ph="{...}" />
+            <marker date="1549134600520" expanded="true" signature="4643:5309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.Test/MockCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.ConsoleParser/InputParser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.Test/BrickControllerTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <marker date="1549221416391" expanded="false" signature="6:137" ph="..." />
+            <marker date="1549221416391" expanded="true" signature="162:1534" ph="{...}" />
+            <marker date="1549221416391" expanded="true" signature="218:1532" ph="{...}" />
+            <marker date="1549221416391" expanded="true" signature="283:468" ph="{...}" />
+            <marker date="1549221416391" expanded="true" signature="526:754" ph="{...}" />
+            <marker date="1549221416391" expanded="true" signature="820:1115" ph="{...}" />
+            <marker date="1549221416391" expanded="true" signature="1182:1526" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Resources/Resource.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Port.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <marker date="1549336062217" expanded="false" signature="6:91" ph="..." />
+            <marker date="1549336062217" expanded="true" signature="120:195" ph="/// An input or output port on the EV3 brick ... " />
+            <marker date="1549336062217" expanded="true" signature="246:4469" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="541:589" ph="/// Constructor ... " />
+            <marker date="1549336062217" expanded="true" signature="605:659" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="663:713" ph="/// Name of port. ... " />
+            <marker date="1549336062217" expanded="true" signature="734:814" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="818:880" ph="/// Device plugged into port. ... " />
+            <marker date="1549336062217" expanded="true" signature="905:985" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="989:1076" ph="/// Device mode.  Some devices work in multiple modes. ... " />
+            <marker date="1549336062217" expanded="true" signature="1095:1183" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="1187:1293" ph="/// Current International System of Units value associated with the Port. ... " />
+            <marker date="1549336062217" expanded="true" signature="1316:1402" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="1406:1478" ph="/// Raw value associated with the Port. ... " />
+            <marker date="1549336062217" expanded="true" signature="1500:1588" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="1592:1671" ph="/// Percentage value associated with the Port. ... " />
+            <marker date="1549336062217" expanded="true" signature="1698:1794" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="1798:1919" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="1952:1976" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="1980:2101" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="2139:2169" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="2173:2294" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="2335:2365" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="2369:2490" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="2531:2561" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="2565:2686" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="2732:2762" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="2766:2887" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="2934:2964" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="2968:3089" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="3127:3157" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="3161:3282" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="3320:3350" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="3354:3475" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="3518:3548" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="3552:3673" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="3715:3745" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="3749:3870" ph="/// Set the connected sensor's mode ... " />
+            <marker date="1549336062217" expanded="true" signature="3911:3941" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="3945:4003" ph="/// INotifyProperty event ... " />
+            <marker date="1549336062217" expanded="true" signature="4144:4466" ph="{...}" />
+            <marker date="1549336062217" expanded="true" signature="4229:4462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Response.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <marker date="1549134600516" expanded="true" signature="48:465" ph="{...}" />
+            <marker date="1549134600516" expanded="true" signature="75:463" ph="{...}" />
+            <marker date="1549134600516" expanded="true" signature="388:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/ResponseManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <marker date="1549134600517" expanded="false" signature="6:77" ph="..." />
+            <marker date="1549134600517" expanded="true" signature="102:2082" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="143:2080" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="337:434" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="479:611" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="674:839" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="702:833" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="893:2077" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="1247:2073" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="1480:1593" ph="{...}" />
+            <marker date="1549134600517" expanded="true" signature="1689:2048" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/SystemCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <marker date="1549336447095" expanded="false" signature="6:60" ph="..." />
+            <marker date="1549336447095" expanded="true" signature="85:5178" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="89:157" ph="/// Direct commands for the EV3 brick ... " />
+            <marker date="1549336447095" expanded="true" signature="192:5176" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="267:294" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="298:719" ph="/// Write a file to the EV3 brick ... " />
+            <marker date="1549336447095" expanded="true" signature="780:840" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="844:1289" ph="/// Copy a local file to the EV3 brick ... " />
+            <marker date="1549336447095" expanded="true" signature="1354:1418" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="1422:1801" ph="/// Create a directory on the EV3 brick ... " />
+            <marker date="1549336447095" expanded="true" signature="1855:1915" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="1919:2221" ph="/// Delete file from the EV3 brick ... " />
+            <marker date="1549336447095" expanded="true" signature="2270:2325" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="2391:2704" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="2775:3098" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="3180:3290" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="3368:5050" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="3954:4644" ph="{...}" />
+            <marker date="1549336447095" expanded="true" signature="4649:5046" ph="/* Command commandClose = new Command(CommandType.SystemReply); ... */" />
+            <marker date="1549336447095" expanded="true" signature="5108:5173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/BrickButtons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1549134600511" expanded="true" signature="23:651" ph="{...}" />
+            <marker date="1549134600511" expanded="true" signature="27:103" ph="/// Buttons on the face of the LEGO EV3 brick ... " />
+            <marker date="1549134600511" expanded="true" signature="137:649" ph="{...}" />
+            <marker date="1549134600511" expanded="true" signature="143:189" ph="/// Up button ... " />
+            <marker date="1549134600511" expanded="true" signature="223:272" ph="///  Down button ... " />
+            <marker date="1549134600511" expanded="true" signature="308:356" ph="/// Left button ... " />
+            <marker date="1549134600511" expanded="true" signature="392:441" ph="/// Right button ... " />
+            <marker date="1549134600511" expanded="true" signature="478:527" ph="///  Back button ... " />
+            <marker date="1549134600511" expanded="true" signature="563:612" ph="/// Enter button ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/BrickChangedEventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1549731120482" expanded="true" signature="62:129" ph="/// Arguments for PortsChanged event ... " />
+            <marker date="1549731120482" expanded="true" signature="172:436" ph="{...}" />
+            <marker date="1549731120482" expanded="true" signature="178:250" ph="/// A map of all ports on the EV3 brick ... " />
+            <marker date="1549731120482" expanded="true" signature="311:389" ph="/// Buttons on the face of the LEGO EV3 brick ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DataReceivedEventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1549731120502" expanded="true" signature="23:288" ph="{...}" />
+            <marker date="1549731120502" expanded="true" signature="27:107" ph="/// Event arguments for the ReportReceived event. ... " />
+            <marker date="1549731120502" expanded="true" signature="152:286" ph="{...}" />
+            <marker date="1549731120502" expanded="true" signature="158:246" ph="/// Byte array of the data received from the EV3 brick. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A75ED570-94B3-4DEE-BF87-E20A6A7D6E6A/8f/7ab28693/DirectCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A75ED570-94B3-4DEE-BF87-E20A6A7D6E6A/5c/74641ef1/Brick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+          <folding>
+            <marker date="1549172107954" expanded="true" signature="0:302" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1549172107954" expanded="true" signature="430:9304" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="510:9302" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="960:1018" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="976:1012" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1095:1153" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1111:1147" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1234:1291" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1250:1285" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1542:1683" ph="/// Send &quot;direct commands&quot; to the EV3 brick.  These commands are executed instantly and are not batched. ... " />
+            <marker date="1549172107954" expanded="true" signature="1722:1796" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1738:1790" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1802:1943" ph="/// Send &quot;system commands&quot; to the EV3 brick.  These commands are executed instantly and are not batched. ... " />
+            <marker date="1549172107954" expanded="true" signature="1982:2056" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="1998:2050" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="2062:2373" ph="/// Send a batch command of multiple direct commands at once.  Call the &lt;see cref=&quot;M:Lego.Ev3.Core.Command.Initia ... " />
+            <marker date="1549172107954" expanded="true" signature="2405:2478" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="2421:2472" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="2622:2796" ph="///Constructor ... " />
+            <marker date="1549172107954" expanded="true" signature="2860:2872" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="2878:3147" ph="///Constructor ... " />
+            <marker date="1549172107954" expanded="true" signature="3208:3908" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="3802:3901" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="3914:3990" ph="///Connect to the EV3 brick. ... " />
+            <marker date="1549172107954" expanded="true" signature="4021:4107" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="4113:4359" ph="/// Connect to the EV3 brick with a specified polling time. ... " />
+            <marker date="1549172107954" expanded="true" signature="4410:4475" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="4542:5199" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="4834:5109" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="4901:5028" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="5286:5363" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="5438:5498" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="5559:5793" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="5836:8906" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="6034:6451" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="7076:7892" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="8830:8898" ph="{...}" />
+            <marker date="1549172107954" expanded="true" signature="8964:9298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleCoder/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <marker date="1549731198401" expanded="true" signature="6:58" ph="..." />
+            <marker date="1549731198401" expanded="true" signature="102:673" ph="{...}" />
+            <marker date="1549731198401" expanded="true" signature="135:667" ph="{...}" />
+            <marker date="1549731198401" expanded="true" signature="350:657" ph="{...}" />
+            <marker date="1549731198401" expanded="true" signature="420:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.Test/BrickIntegrationTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1549731209561" expanded="false" signature="6:161" ph="..." />
+            <marker date="1549731209561" expanded="true" signature="243:1459" ph="{...}" />
+            <marker date="1549731209561" expanded="true" signature="308:504" ph="{...}" />
+            <marker date="1549731209561" expanded="true" signature="562:731" ph="{...}" />
+            <marker date="1549731209561" expanded="true" signature="797:1033" ph="{...}" />
+            <marker date="1549731209561" expanded="true" signature="1100:1453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.Test/InputParserTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1549731225132" expanded="false" signature="6:95" ph="..." />
+            <marker date="1549731225132" expanded="true" signature="172:995" ph="{...}" />
+            <marker date="1549731225132" expanded="true" signature="247:431" ph="{...}" />
+            <marker date="1549731225132" expanded="true" signature="508:746" ph="{...}" />
+            <marker date="1549731225132" expanded="true" signature="801:989" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/AppDelegate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <marker date="1549731241546" expanded="false" signature="6:30" ph="..." />
+            <marker date="1549731241546" expanded="true" signature="72:1039" ph="{...}" />
+            <marker date="1549731241546" expanded="true" signature="79:304" ph="/* The UIApplicationDelegate for the application. This class is responsible for launching the ... */" />
+            <marker date="1549731241546" expanded="true" signature="433:1037" ph="{...}" />
+            <marker date="1549731241546" expanded="true" signature="448:785" ph="/* This method is invoked when the application has loaded and is ready to run. In this ... */" />
+            <marker date="1549731241546" expanded="true" signature="873:1031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549335597958" expanded="true" signature="40:294" ph="&lt;&lt;Application.Resources&gt;&#10;&#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1549335597958" expanded="true" signature="226:279" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1549731119992" expanded="false" signature="6:46" ph="..." />
+            <marker date="1549731119992" expanded="true" signature="145:640" ph="{...}" />
+            <marker date="1549731119992" expanded="true" signature="190:638" ph="{...}" />
+            <marker date="1549731119992" expanded="true" signature="217:312" ph="{...}" />
+            <marker date="1549731119992" expanded="true" signature="355:418" ph="{...}" />
+            <marker date="1549731119992" expanded="true" signature="461:524" ph="{...}" />
+            <marker date="1549731119992" expanded="true" signature="568:632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainApplication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <marker date="1549733561490" expanded="true" signature="6:85" ph="..." />
+            <marker date="1549733561490" expanded="true" signature="219:460" ph="{...}" />
+            <marker date="1549733561490" expanded="true" signature="323:335" ph="{...}" />
+            <marker date="1549733561490" expanded="true" signature="372:458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <marker date="1549733918502" expanded="true" signature="6:193" ph="..." />
+            <marker date="1549733918502" expanded="true" signature="246:428" ph="[...]" />
+            <marker date="1549733918502" expanded="true" signature="522:2156" ph="{...}" />
+            <marker date="1549733918502" expanded="true" signature="596:1007" ph="{...}" />
+            <marker date="1549733918502" expanded="true" signature="1147:1366" ph="{...}" />
+            <marker date="1549733918502" expanded="true" signature="1400:1790" ph="{...}" />
+            <marker date="1549733918502" expanded="true" signature="1564:1616" ph="{...}" />
+            <marker date="1549733918502" expanded="true" signature="1899:2106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <marker date="1549734984523" expanded="true" signature="40:634" ph="&lt;&lt;StackLayout&gt;&#10;        &lt;!-- Place new controls here --&gt;&#10;        &lt;Label Text=&quot;Welcome to Xamarin.Forms!&quot; &#10;           HorizontalOptions=&quot;Center&quot;&#10;           VerticalOptions=&quot;CenterAndExpand&quot; /&gt;&#10;        &lt;Button Text=&quot;Start&quot;&gt;&#10;            &lt;Button.Clicked&gt;Button_OnClicked&lt;/Button.Clicked&gt;&#10;        &lt;/Button&gt;&#10;    &lt;/StackLayout&gt;.../&gt;" />
+            <marker date="1549734984523" expanded="true" signature="300:618" ph="&lt;&lt;Label Text=&quot;Welcome to Xamarin.Forms!&quot; &#10;           HorizontalOptions=&quot;Center&quot;&#10;           VerticalOptions=&quot;CenterAndExpand&quot; /&gt; &lt;Button Text=&quot;Start&quot;&gt;&#10;            &lt;Button.Clicked&gt;Button_OnClicked&lt;/Button.Clicked&gt;&#10;        &lt;/Button&gt;.../&gt;" />
+            <marker date="1549734984523" expanded="true" signature="363:489" ph="&lt;.../&gt;" />
+            <marker date="1549734984523" expanded="true" signature="498:599" ph="&lt;&lt;Button.Clicked&gt;Button_OnClicked&lt;/Button.Clicked&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34033585-18E7-4A1B-9940-90A667CA61BB/0e/a1b10e93/SerialData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/XamarinBluetoothCommunication.cs" />
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/MainPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1549739596205" expanded="true" signature="6:79" ph="..." />
+            <marker date="1549739596205" expanded="true" signature="117:776" ph="{...}" />
+            <marker date="1549739596205" expanded="true" signature="167:774" ph="{...}" />
+            <marker date="1549739596205" expanded="true" signature="237:292" ph="{...}" />
+            <marker date="1549739596205" expanded="true" signature="358:768" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.Core/BrickController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <marker date="1549731119958" expanded="false" signature="6:88" ph="..." />
+            <marker date="1549731119958" expanded="true" signature="113:3347" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="148:3345" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="700:772" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="803:929" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1004:1139" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1234:1384" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1464:1831" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1538:1729" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1758:1821" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1922:2206" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="1961:2070" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="2276:2530" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="2621:3339" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="2736:2966" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="2995:3224" ph="{...}" />
+            <marker date="1549731119958" expanded="true" signature="3266:3329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lego.Ev3.Core/UsbCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <marker date="1549739394977" expanded="false" signature="6:204" ph="..." />
+            <marker date="1549739394977" expanded="true" signature="232:6212" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="236:311" ph="/// Communicate with EV3 brick over USB HID. ... " />
+            <marker date="1549739394977" expanded="true" signature="359:6210" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="365:468" ph="/// Event fired when a complete report is received from the EV3 brick. ... " />
+            <marker date="1549739394977" expanded="true" signature="968:1056" ph="/// Connect to the EV3 brick. ... " />
+            <marker date="1549739394977" expanded="true" signature="1085:1882" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="1200:1766" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="1254:1761" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="1345:1755" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="1886:1953" ph="/// Disconnect from the EV3 brick. ... " />
+            <marker date="1549739394977" expanded="true" signature="1980:2114" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="2118:2279" ph="/// Write data to the EV3 brick. ... " />
+            <marker date="1549739394977" expanded="true" signature="2323:2590" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="2350:2486" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="2617:6207" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="3337:5992" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="3723:3910" ph="/* yeah, yeah...well, see, on Win x86, cbSize must be 5 for some reason.  On x64, apparently 8 is what it wants. ... */" />
+            <marker date="1549739394977" expanded="true" signature="4121:5795" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="4794:5789" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="4909:5758" ph="{...}" />
+            <marker date="1549739394977" expanded="true" signature="5804:5942" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34033585-18E7-4A1B-9940-90A667CA61BB/77/db4d534c/SerialPort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4032">
+          <caret line="253" column="54" selection-start-line="253" selection-start-column="54" selection-end-line="253" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/IXamarinCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <marker date="1549736646020" expanded="false" signature="6:50" ph="..." />
+            <marker date="1549736646020" expanded="true" signature="88:243" ph="{...}" />
+            <marker date="1549736646020" expanded="true" signature="149:241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2DD5A308-E4FE-43CD-BEE5-665E004D9324/6b/e3884e47/IDevice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/ICommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <marker date="1549739395051" expanded="false" signature="6:43" ph="..." />
+            <marker date="1549739395051" expanded="true" signature="68:670" ph="{...}" />
+            <marker date="1549739395051" expanded="true" signature="72:153" ph="/// Interface for communicating with the EV3 brick ... " />
+            <marker date="1549739395051" expanded="true" signature="186:668" ph="{...}" />
+            <marker date="1549739395051" expanded="true" signature="192:284" ph="/// Fired when a full report is ready to parse and process. ... " />
+            <marker date="1549739395051" expanded="true" signature="350:412" ph="/// Connect to the EV3 brick. ... " />
+            <marker date="1549739395051" expanded="true" signature="439:506" ph="/// Disconnect from the EV3 brick. ... " />
+            <marker date="1549739395051" expanded="true" signature="531:634" ph="/// Write a report to the EV3 brick. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DummyCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <marker date="1549739395002" expanded="false" signature="6:69" ph="..." />
+            <marker date="1549739395002" expanded="true" signature="94:1230" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="98:216" ph="/// Dummy object for testing.  Does not actually connect or communicate with EV3 brick. ... " />
+            <marker date="1549739395002" expanded="true" signature="273:1228" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="279:439" ph="/// Event fired when a complete report is received from the EV3 brick.  In this dummy implementation, the event i ... " />
+            <marker date="1549739395002" expanded="true" signature="507:530" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="533:613" ph="/// Test Connect method. ... " />
+            <marker date="1549739395002" expanded="true" signature="641:705" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="709:769" ph="/// Test Disconnect method. ... " />
+            <marker date="1549739395002" expanded="true" signature="796:804" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="808:995" ph="/// Test WriteAsync method.  (Writes formatted data to Debug stream). ... " />
+            <marker date="1549739395002" expanded="true" signature="1033:1225" ph="{...}" />
+            <marker date="1549739395002" expanded="true" signature="1063:1219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lego.Ev3.Core/NetworkCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+          <folding>
+            <marker date="1549739394969" expanded="false" signature="6:133" ph="..." />
+            <marker date="1549739394969" expanded="true" signature="198:2834" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="202:272" ph="/// Communicate with EV3 brick over TCP ... " />
+            <marker date="1549739394969" expanded="true" signature="324:2832" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="330:433" ph="/// Event fired when a complete report is received from the EV3 brick. ... " />
+            <marker date="1549739394969" expanded="true" signature="789:934" ph="/// Create a new NetworkCommunication object ... " />
+            <marker date="1549739394969" expanded="true" signature="980:1011" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="1015:1103" ph="/// Connect to the EV3 brick. ... " />
+            <marker date="1549739394969" expanded="true" signature="1138:2439" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="1810:2357" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="1864:2352" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="1955:2346" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="2443:2510" ph="/// Disconnect from the EV3 brick. ... " />
+            <marker date="1549739394969" expanded="true" signature="2537:2565" ph="{...}" />
+            <marker date="1549739394969" expanded="true" signature="2569:2731" ph="/// Write data to the EV3 brick. ... " />
+            <marker date="1549739394969" expanded="true" signature="2769:2829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Enums.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="97" column="19" selection-start-line="97" selection-start-column="19" selection-end-line="97" selection-end-column="19" />
+          <folding>
+            <marker date="1549134600515" expanded="true" signature="38:11951" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="59:185" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="202:305" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="319:1587" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="1607:1736" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="1761:1976" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="1979:2057" ph="/// The type of command being sent to the brick ... " />
+            <marker date="1549134600515" expanded="true" signature="2082:2469" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="2088:2161" ph="/// Direct command with a reply expected ... " />
+            <marker date="1549134600515" expanded="true" signature="2186:2251" ph="/// Direct command with no reply ... " />
+            <marker date="1549134600515" expanded="true" signature="2279:2353" ph="///  System command with a reply expected ... " />
+            <marker date="1549134600515" expanded="true" signature="2378:2443" ph="/// System command with no reply ... " />
+            <marker date="1549134600515" expanded="true" signature="2472:2530" ph="/// Format for sensor data. ... " />
+            <marker date="1549134600515" expanded="true" signature="2550:2762" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="2556:2603" ph="/// Percentage ... " />
+            <marker date="1549134600515" expanded="true" signature="2624:2664" ph="/// Raw ... " />
+            <marker date="1549134600515" expanded="true" signature="2681:2747" ph="/// International System of Units ... " />
+            <marker date="1549134600515" expanded="true" signature="2765:2836" ph="/// Polarity/direction to turn the motor ... " />
+            <marker date="1549134600515" expanded="true" signature="2858:3087" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="2864:2914" ph="/// Turn backward ... " />
+            <marker date="1549134600515" expanded="true" signature="2934:3001" ph="/// Turn in the opposite direction ... " />
+            <marker date="1549134600515" expanded="true" signature="3020:3069" ph="/// Turn forward ... " />
+            <marker date="1549134600515" expanded="true" signature="3090:3159" ph="/// Ports which can receive input data ... " />
+            <marker date="1549134600515" expanded="true" signature="3182:3670" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="3188:3231" ph="/// Port 1 ... " />
+            <marker date="1549134600515" expanded="true" signature="3249:3292" ph="/// Port 2 ... " />
+            <marker date="1549134600515" expanded="true" signature="3310:3353" ph="/// Port 3 ... " />
+            <marker date="1549134600515" expanded="true" signature="3372:3415" ph="/// Port 4 ... " />
+            <marker date="1549134600515" expanded="true" signature="3434:3477" ph="/// Port A ... " />
+            <marker date="1549134600515" expanded="true" signature="3493:3536" ph="/// Port B ... " />
+            <marker date="1549134600515" expanded="true" signature="3552:3595" ph="/// Port C ... " />
+            <marker date="1549134600515" expanded="true" signature="3611:3654" ph="/// Port D ... " />
+            <marker date="1549134600515" expanded="true" signature="3673:3735" ph="/// Ports which can send output ... " />
+            <marker date="1549134600515" expanded="true" signature="3768:4091" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="3774:3817" ph="/// Port A ... " />
+            <marker date="1549134600515" expanded="true" signature="3832:3875" ph="/// Port B ... " />
+            <marker date="1549134600515" expanded="true" signature="3890:3933" ph="/// Port C ... " />
+            <marker date="1549134600515" expanded="true" signature="3948:3991" ph="/// Port D ... " />
+            <marker date="1549134600515" expanded="true" signature="4006:4075" ph="/// Ports A,B,C and D simultaneously ... " />
+            <marker date="1549134600515" expanded="true" signature="4094:4195" ph="/// List of devices which can be recognized as input or output devices ... " />
+            <marker date="1549134600515" expanded="true" signature="4219:5584" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="4243:4296" ph="/// NXT Touch sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4315:4368" ph="/// NXT Light sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4387:4440" ph="/// NXT Sound sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4459:4512" ph="/// NXT Color sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4531:4589" ph="/// NXT Ultrasonic sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4613:4673" ph="///  NXT Temperature sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4713:4761" ph="/// Large motor ... " />
+            <marker date="1549134600515" expanded="true" signature="4778:4827" ph="/// Medium motor ... " />
+            <marker date="1549134600515" expanded="true" signature="4862:4915" ph="/// EV3 Touch sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="4932:4985" ph="/// EV3 Color sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="5002:5060" ph="/// EV3 Ultrasonic sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="5082:5139" ph="/// EV3 Gyroscope sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="5160:5210" ph="/// EV3 IR sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="5242:5301" ph="/// Sensor is initializing ... " />
+            <marker date="1549134600515" expanded="true" signature="5327:5377" ph="/// Port is empty ... " />
+            <marker date="1549134600515" expanded="true" signature="5396:5483" ph="/// Sensor is plugged into a motor port, or vice-versa ... " />
+            <marker date="1549134600515" expanded="true" signature="5506:5564" ph="/// Unknown sensor/status ... " />
+            <marker date="1549134600515" expanded="true" signature="5587:5658" ph="/// Buttons on the face of the EV3 brick ... " />
+            <marker date="1549134600515" expanded="true" signature="5683:6156" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="5689:5735" ph="/// No button ... " />
+            <marker date="1549134600515" expanded="true" signature="5746:5792" ph="/// Up button ... " />
+            <marker date="1549134600515" expanded="true" signature="5801:5850" ph="/// Enter button ... " />
+            <marker date="1549134600515" expanded="true" signature="5862:5910" ph="/// Down button ... " />
+            <marker date="1549134600515" expanded="true" signature="5921:5970" ph="/// Right button ... " />
+            <marker date="1549134600515" expanded="true" signature="5982:6030" ph="/// Left button ... " />
+            <marker date="1549134600515" expanded="true" signature="6041:6089" ph="/// Back button ... " />
+            <marker date="1549134600515" expanded="true" signature="6100:6147" ph="/// Any button ... " />
+            <marker date="1549134600515" expanded="true" signature="6159:6233" ph="/// Pattern to light up the EV3 brick's LED ... " />
+            <marker date="1549134600515" expanded="true" signature="6257:6897" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="6263:6307" ph="/// LED off ... " />
+            <marker date="1549134600515" expanded="true" signature="6319:6367" ph="/// Solid green ... " />
+            <marker date="1549134600515" expanded="true" signature="6379:6425" ph="/// Solid red ... " />
+            <marker date="1549134600515" expanded="true" signature="6435:6484" ph="/// Solid orange ... " />
+            <marker date="1549134600515" expanded="true" signature="6497:6548" ph="/// Flashing green ... " />
+            <marker date="1549134600515" expanded="true" signature="6565:6614" ph="/// Flashing red ... " />
+            <marker date="1549134600515" expanded="true" signature="6629:6681" ph="/// Flashing orange ... " />
+            <marker date="1549134600515" expanded="true" signature="6699:6749" ph="/// Pulsing green ... " />
+            <marker date="1549134600515" expanded="true" signature="6766:6814" ph="/// Pulsing red ... " />
+            <marker date="1549134600515" expanded="true" signature="6829:6880" ph="/// Pulsing orange ... " />
+            <marker date="1549134600515" expanded="true" signature="6900:6944" ph="/// UI colors ... " />
+            <marker date="1549134600515" expanded="true" signature="6963:7122" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="6969:7029" ph="/// Color of the background ... " />
+            <marker date="1549134600515" expanded="true" signature="7046:7106" ph="/// Color of the foreground ... " />
+            <marker date="1549134600515" expanded="true" signature="7125:7201" ph="/// Font types for drawing text to the screen ... " />
+            <marker date="1549134600515" expanded="true" signature="7223:7407" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="7229:7276" ph="/// Small font ... " />
+            <marker date="1549134600515" expanded="true" signature="7288:7336" ph="/// Medium font ... " />
+            <marker date="1549134600515" expanded="true" signature="7349:7396" ph="/// Large font ... " />
+            <marker date="1549134600515" expanded="true" signature="7410:7474" ph="/// NXT and EV3 Touch Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="7497:7670" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="7503:7574" ph="/// On when pressed, off when released ... " />
+            <marker date="1549134600515" expanded="true" signature="7586:7659" ph="/// Running counter of number of presses ... " />
+            <marker date="1549134600515" expanded="true" signature="7673:7729" ph="/// NXT Light Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="7755:7910" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="7761:7823" ph="/// Amount of reflected light ... " />
+            <marker date="1549134600515" expanded="true" signature="7837:7897" ph="/// Amoutn of ambient light ... " />
+            <marker date="1549134600515" expanded="true" signature="7913:7969" ph="/// NXT Sound Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="7995:8137" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="8001:8046" ph="/// Decibels ... " />
+            <marker date="1549134600515" expanded="true" signature="8061:8115" ph="/// Adjusted Decibels ... " />
+            <marker date="1549134600515" expanded="true" signature="8140:8196" ph="/// NXT Color Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="8222:8612" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="8228:8280" ph="/// Reflected color ... " />
+            <marker date="1549134600515" expanded="true" signature="8297:8347" ph="/// Ambient color ... " />
+            <marker date="1549134600515" expanded="true" signature="8361:8412" ph="/// Specific color ... " />
+            <marker date="1549134600515" expanded="true" signature="8424:8476" ph="/// Amount of green ... " />
+            <marker date="1549134600515" expanded="true" signature="8488:8539" ph="/// Amount of blue ... " />
+            <marker date="1549134600515" expanded="true" signature="8550:8603" ph="/// Raw sensor value ... " />
+            <marker date="1549134600515" expanded="true" signature="8615:8676" ph="/// NXT Ultrasonic Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="8707:8863" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="8713:8776" ph="/// Values in centimeter units ... " />
+            <marker date="1549134600515" expanded="true" signature="8794:8851" ph="/// Values in inch units ... " />
+            <marker date="1549134600515" expanded="true" signature="8866:8928" ph="/// NXT Temperature Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="8960:9120" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="8966:9026" ph="/// Values in Celsius units ... " />
+            <marker date="1549134600515" expanded="true" signature="9040:9103" ph="/// Values in Fahrenheit units ... " />
+            <marker date="1549134600515" expanded="true" signature="9123:9168" ph="/// Motor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="9191:9407" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="9197:9251" ph="/// Values in degrees ... " />
+            <marker date="1549134600515" expanded="true" signature="9265:9321" ph="/// Values in rotations ... " />
+            <marker date="1549134600515" expanded="true" signature="9337:9394" ph="/// Values in percentage ... " />
+            <marker date="1549134600515" expanded="true" signature="9410:9466" ph="/// EV3 Color Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="9489:9932" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="9495:9547" ph="/// Reflected color ... " />
+            <marker date="1549134600515" expanded="true" signature="9564:9614" ph="/// Ambient color ... " />
+            <marker date="1549134600515" expanded="true" signature="9628:9679" ph="/// Specific color ... " />
+            <marker date="1549134600515" expanded="true" signature="9691:9753" ph="/// Reflected color raw value ... " />
+            <marker date="1549134600515" expanded="true" signature="9773:9835" ph="/// Reflected color RGB value ... " />
+            <marker date="1549134600515" expanded="true" signature="9855:9903" ph="/// Calibration ... " />
+            <marker date="1549134600515" expanded="true" signature="9935:9996" ph="/// EV3 Ultrasonic Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="10024:10514" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="10030:10093" ph="/// Values in centimeter units ... " />
+            <marker date="1549134600515" expanded="true" signature="10111:10168" ph="/// Values in inch units ... " />
+            <marker date="1549134600515" expanded="true" signature="10181:10229" ph="/// Listen mode ... " />
+            <marker date="1549134600515" expanded="true" signature="10242:10286" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10306:10350" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10365:10409" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10442:10486" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10517:10577" ph="/// EV3 Gyroscope Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="10604:10925" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="10610:10652" ph="/// Angle ... " />
+            <marker date="1549134600515" expanded="true" signature="10664:10717" ph="/// Rate of movement ... " />
+            <marker date="1549134600515" expanded="true" signature="10728:10772" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10795:10839" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="10864:10910" ph="/// Calibrate ... " />
+            <marker date="1549134600515" expanded="true" signature="10928:10987" ph="/// EV3 Infrared Sensor mode ... " />
+            <marker date="1549134600515" expanded="true" signature="11013:11401" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="11019:11065" ph="/// Proximity ... " />
+            <marker date="1549134600515" expanded="true" signature="11081:11122" ph="/// Seek ... " />
+            <marker date="1549134600515" expanded="true" signature="11133:11188" ph="/// EV3 remote control ... " />
+            <marker date="1549134600515" expanded="true" signature="11201:11245" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="11271:11315" ph="/// Unknown ... " />
+            <marker date="1549134600515" expanded="true" signature="11339:11386" ph="///  Calibrate ... " />
+            <marker date="1549134600515" expanded="true" signature="11404:11474" ph="/// Values returned by the color sensor ... " />
+            <marker date="1549134600515" expanded="true" signature="11504:11949" ph="{...}" />
+            <marker date="1549134600515" expanded="true" signature="11510:11558" ph="/// Transparent ... " />
+            <marker date="1549134600515" expanded="true" signature="11576:11618" ph="/// Black ... " />
+            <marker date="1549134600515" expanded="true" signature="11630:11671" ph="/// Blue ... " />
+            <marker date="1549134600515" expanded="true" signature="11682:11724" ph="/// Green ... " />
+            <marker date="1549134600515" expanded="true" signature="11736:11779" ph="/// Yellow ... " />
+            <marker date="1549134600515" expanded="true" signature="11792:11832" ph="/// Red ... " />
+            <marker date="1549134600515" expanded="true" signature="11842:11884" ph="/// White ... " />
+            <marker date="1549134600515" expanded="true" signature="11896:11938" ph="/// Brown ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Assets/AboutAssets.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lego.Ev3.Core/BluetoothCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1549739395081" expanded="true" signature="132:1997" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="136:210" ph="/// Communicate to EV3 brick over Bluetooth ... " />
+            <marker date="1549739395081" expanded="true" signature="264:1995" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="270:373" ph="/// Event fired when a complete report is received from the EV3 brick. ... " />
+            <marker date="1549739395081" expanded="true" signature="513:660" ph="/// Initialize a BluetoothCommunication object. ... " />
+            <marker date="1549739395081" expanded="true" signature="705:760" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="764:852" ph="/// Connect to the EV3 brick. ... " />
+            <marker date="1549739395081" expanded="true" signature="881:1057" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1142:1378" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1185:1374" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1382:1449" ph="/// Disconnect from the EV3 brick. ... " />
+            <marker date="1549739395081" expanded="true" signature="1476:1626" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1507:1622" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1630:1799" ph="/// Write data to the EV3 brick. ... " />
+            <marker date="1549739395081" expanded="true" signature="1837:1992" ph="{...}" />
+            <marker date="1549739395081" expanded="true" signature="1866:1986" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/iOSBluetoothCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#275#0" expanded="true" />
+            <marker date="1549859577004" expanded="true" signature="4745:4758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01C9D5E9-7A62-4528-A7BB-D4AC8CF2ADDE/35/983eae25/CBCentralManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="155" column="4" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/AndroidBluetoothCommunication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding>
+            <marker date="1549859674548" expanded="true" signature="426:2918" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="698:815" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="856:1925" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="882:1777" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1064:1761" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1208:1743" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1258:1530" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1575:1721" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1810:1915" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1959:2167" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="1985:2047" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2081:2157" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2212:2546" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2256:2534" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2290:2396" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2433:2520" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2593:2702" ph="{...}" />
+            <marker date="1549859674548" expanded="true" signature="2749:2858" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.Android/Properties/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/DirectCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12464">
+          <caret line="781" column="9" selection-start-line="781" selection-start-column="9" selection-end-line="781" selection-end-column="9" />
+          <folding>
+            <marker date="1549337310106" expanded="true" signature="87:28778" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="91:159" ph="/// Direct commands for the EV3 brick ... " />
+            <marker date="1549337310106" expanded="true" signature="194:28776" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="269:296" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="300:592" ph="/// Turn the motor connected to the specified port or ports at the specified power. ... " />
+            <marker date="1549337310106" expanded="true" signature="657:720" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="724:974" ph="/// Turn the specified motor at the specified speed. ... " />
+            <marker date="1549337310106" expanded="true" signature="1039:1102" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="1106:1515" ph="/// Step the motor connected to the specified port or ports at the specified power for the specified number of st ... " />
+            <marker date="1549337310106" expanded="true" signature="1604:1687" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="1691:2192" ph="/// Step the motor connected to the specified port or ports at the specified power for the specified number of st ... " />
+            <marker date="1549337310106" expanded="true" signature="2327:2440" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="2444:2853" ph="/// Step the motor connected to the specified port or ports at the specified speed for the specified number of st ... " />
+            <marker date="1549337310106" expanded="true" signature="2942:3025" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="3030:3531" ph="/// Step the motor connected to the specified port or ports at the specified speed for the specified number of st ... " />
+            <marker date="1549337310106" expanded="true" signature="3666:3779" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="3783:4263" ph="/// Turn the motor connected to the specified port or ports at the specified power for the specified times. ... " />
+            <marker date="1549337310106" expanded="true" signature="4366:4463" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="4467:5112" ph="/// Turn the motor connected to the specified port or ports at the specified power for the specified times. ... " />
+            <marker date="1549337310106" expanded="true" signature="5245:5356" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="5360:5840" ph="/// Turn the motor connected to the specified port or ports at the specified speed for the specified times. ... " />
+            <marker date="1549337310106" expanded="true" signature="5943:6040" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="6043:6687" ph="/// Turn the motor connected to the specified port or ports at the specified speed for the specified times. ... " />
+            <marker date="1549337310106" expanded="true" signature="6820:6933" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="6937:7179" ph="/// Set the polarity (direction) of a motor. ... " />
+            <marker date="1549337310106" expanded="true" signature="7252:7318" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="7322:7513" ph="/// Start motors on the specified ports. ... " />
+            <marker date="1549337310106" expanded="true" signature="7561:7611" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="7615:8062" ph="/// Synchronize stepping of motors. ... " />
+            <marker date="1549337310106" expanded="true" signature="8164:8248" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="8252:8686" ph="/// Synchronize timing of motors. ... " />
+            <marker date="1549337310106" expanded="true" signature="8788:8872" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="8877:9142" ph="/// Stops motors on the specified ports. ... " />
+            <marker date="1549337310106" expanded="true" signature="9201:9257" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="9261:9365" ph="/// Resets all ports and devices to defaults. ... " />
+            <marker date="1549337310106" expanded="true" signature="9403:9453" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="9457:9603" ph="/// Clears changes on specified port ... " />
+            <marker date="1549337310106" expanded="true" signature="9652:9703" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="9707:10036" ph="/// Plays a tone of the specified frequency for the specified time. ... " />
+            <marker date="1549337310106" expanded="true" signature="10112:10182" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="10186:10452" ph="/// Play a sound file stored on the EV3 brick ... " />
+            <marker date="1549337310106" expanded="true" signature="10511:10571" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="10575:10738" ph="/// Return the current version number of the firmware running on the EV3 brick. ... " />
+            <marker date="1549337310106" expanded="true" signature="10786:10839" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="10843:11065" ph="/// Returns whether the specified BrickButton is pressed ... " />
+            <marker date="1549337310106" expanded="true" signature="11131:11192" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="11196:11349" ph="/// Set EV3 brick LED pattern ... " />
+            <marker date="1549337310106" expanded="true" signature="11405:11463" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="11467:11767" ph="/// Draw a line on the EV3 LCD screen ... " />
+            <marker date="1549337310106" expanded="true" signature="11853:11917" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="11921:12138" ph="/// Draw a single pixel ... " />
+            <marker date="1549337310106" expanded="true" signature="12201:12256" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="12260:12637" ph="/// Draw a rectangle ... " />
+            <marker date="1549337310106" expanded="true" signature="12747:12829" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="12833:13153" ph="/// Draw a filled rectangle, inverting the pixels underneath it ... " />
+            <marker date="1549337310106" expanded="true" signature="13242:13316" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="13320:13639" ph="/// Draw a circle ... " />
+            <marker date="1549337310106" expanded="true" signature="13730:13802" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="13806:14077" ph="/// Write a string to the screen ... " />
+            <marker date="1549337310106" expanded="true" signature="14151:14211" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="14215:14648" ph="/// Draw a dotted line ... " />
+            <marker date="1549337310106" expanded="true" signature="14774:14865" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="14869:15124" ph="/// Fills the width of the screen between the provided Y coordinates ... " />
+            <marker date="1549337310106" expanded="true" signature="15193:15255" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="15259:15569" ph="/// Draw an image to the LCD screen ... " />
+            <marker date="1549337310106" expanded="true" signature="15650:15717" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="15721:15876" ph="/// Enable or disable the top status bar ... " />
+            <marker date="1549337310106" expanded="true" signature="15923:15978" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="15982:16134" ph="/// Select the font for text drawing ... " />
+            <marker date="1549337310106" expanded="true" signature="16183:16236" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="16240:16326" ph="/// Clear the entire screen ... " />
+            <marker date="1549337310106" expanded="true" signature="16355:16397" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="16401:16490" ph="/// Refresh the EV3 LCD screen ... " />
+            <marker date="1549337310106" expanded="true" signature="16520:16563" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="16567:16808" ph="/// Get the type and mode of the device attached to the specified port ... " />
+            <marker date="1549337310106" expanded="true" signature="16863:16913" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="16917:17170" ph="/// Read the SI value from the specified port in the specified mode ... " />
+            <marker date="1549337310106" expanded="true" signature="17230:17282" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="17286:17541" ph="/// Read the raw value from the specified port in the specified mode ... " />
+            <marker date="1549337310106" expanded="true" signature="17600:17653" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="17657:17923" ph="/// Read the percent value from the specified port in the specified mode ... " />
+            <marker date="1549337310106" expanded="true" signature="17986:18043" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="18047:18236" ph="/// Get the name of the device attached to the specified port ... " />
+            <marker date="1549337310106" expanded="true" signature="18293:18345" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="18349:18593" ph="/// Get the mode of the device attached to the specified port ... " />
+            <marker date="1549337310106" expanded="true" signature="18658:18714" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="18718:18906" ph="/// Wait for the specificed output port(s) to be ready for the next command ... " />
+            <marker date="1549337310106" expanded="true" signature="18955:19006" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="19088:19257" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="19339:19508" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="19660:19855" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="20008:20203" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="20353:20546" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="20696:20889" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="20979:21127" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="21203:21341" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="21406:21538" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="21657:21823" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="21942:22108" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="22162:22294" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="22359:22492" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="22584:22736" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="22811:22953" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="23018:23334" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="23417:23584" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="23657:23797" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="23843:23967" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="24069:24215" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="24294:24431" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="24556:24720" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="24826:24982" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="25090:25244" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="25335:25477" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="25563:25707" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="25805:25954" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="26020:26155" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="26219:26356" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="26499:26672" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="26719:26844" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="26916:27085" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="27162:27356" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="27432:27626" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="27706:27878" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="27952:28220" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="28302:28574" ph="{...}" />
+            <marker date="1549337310106" expanded="true" signature="28640:28773" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Brick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="163" column="47" selection-start-line="163" selection-start-column="47" selection-end-line="163" selection-end-column="47" />
+          <folding>
+            <marker date="1549731241569" expanded="true" signature="127:7841" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="131:190" ph="/// Main EV3 brick interface ... " />
+            <marker date="1549731241569" expanded="true" signature="217:7839" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="223:279" ph="/// Width of LCD screen ... " />
+            <marker date="1549731241569" expanded="true" signature="332:389" ph="/// Height of LCD screen ... " />
+            <marker date="1549731241569" expanded="true" signature="443:500" ph="/// Height of status bar ... " />
+            <marker date="1549731241569" expanded="true" signature="915:992" ph="/// Input and output ports on LEGO EV3 brick ... " />
+            <marker date="1549731241569" expanded="true" signature="1053:1131" ph="/// Buttons on the face of the LEGO EV3 brick ... " />
+            <marker date="1549731241569" expanded="true" signature="1179:1316" ph="/// Send &quot;direct commands&quot; to the EV3 brick.  These commands are executed instantly and are not batched. ... " />
+            <marker date="1549731241569" expanded="true" signature="1392:1529" ph="/// Send &quot;system commands&quot; to the EV3 brick.  These commands are executed instantly and are not batched. ... " />
+            <marker date="1549731241569" expanded="true" signature="1605:1851" ph="/// Send a batch command of multiple direct commands at once.  Call the &lt;see cref=&quot;Command.Initialize&quot;/&gt; method w ... " />
+            <marker date="1549731241569" expanded="true" signature="1919:1998" ph="/// Event that is fired when a port is changed ... " />
+            <marker date="1549731241569" expanded="true" signature="2069:2238" ph="/// Constructor ... " />
+            <marker date="1549731241569" expanded="true" signature="2302:2564" ph="/// Constructor ... " />
+            <marker date="1549731241569" expanded="true" signature="2623:3138" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3019:3134" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3053:3128" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3142:3230" ph="/// Connect to the EV3 brick. ... " />
+            <marker date="1549731241569" expanded="true" signature="3259:3331" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3335:3573" ph="/// Connect to the EV3 brick with a specified polling time. ... " />
+            <marker date="1549731241569" expanded="true" signature="3622:3675" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3740:4296" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3926:4292" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="3978:4209" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="4034:4137" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="4300:4366" ph="/// Disconnect from the EV3 brick ... " />
+            <marker date="1549731241569" expanded="true" signature="4393:4480" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="4553:4606" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="4665:4865" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="4906:7535" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="5128:5426" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="5976:6740" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="7591:7836" ph="{...}" />
+            <marker date="1549731241569" expanded="true" signature="7681:7832" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../lego/Lego.Ev3.Core/Command.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12144">
+          <caret line="762" column="49" selection-start-line="762" selection-start-column="49" selection-end-line="762" selection-end-column="49" />
+          <folding>
+            <marker date="1549335968913" expanded="true" signature="104:31740" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="108:202" ph="/// Command or chain of commands to be written to the EV3 brick ... " />
+            <marker date="1549335968913" expanded="true" signature="231:31738" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="492:519" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="590:598" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="677:736" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="740:888" ph="/// Start a new command of a specific type ... " />
+            <marker date="1549335968913" expanded="true" signature="938:980" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="984:1383" ph="/// Start a new command of a speicifc type with a global and/or local buffer on the EV3 brick ... " />
+            <marker date="1549335968913" expanded="true" signature="1467:2380" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="2154:2376" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="2422:2689" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="2430:2578" ph="/* 1 or 2 bytes (opcode + subcmd, if applicable) ... */" />
+            <marker date="1549335968913" expanded="true" signature="2737:2777" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="2821:2933" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="2979:3092" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="3139:3254" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="3302:3417" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="3463:3576" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="3616:3818" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="3992:4029" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4080:4117" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4166:4203" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4246:4354" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4422:4468" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4499:4734" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="4738:4893" ph="/// Start the motor(s) based on previous commands ... " />
+            <marker date="1549335968913" expanded="true" signature="4936:5051" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="5055:5317" ph="/// Turns the specified motor at the specified power ... " />
+            <marker date="1549335968913" expanded="true" signature="5377:5658" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="5662:5914" ph="/// Turn the specified motor at the specified speed. ... " />
+            <marker date="1549335968913" expanded="true" signature="5974:6256" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="6260:6709" ph="/// Step the motor connected to the specified port or ports at the specified power for the specified number of st ... " />
+            <marker date="1549335968913" expanded="true" signature="6793:6857" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="6861:7364" ph="/// Step the motor connected to the specified port or ports at the specified power for the specified number of st ... " />
+            <marker date="1549335968913" expanded="true" signature="7494:7981" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="7985:8396" ph="/// Step the motor connected to the specified port or ports at the specified speed for the specified number of st ... " />
+            <marker date="1549335968913" expanded="true" signature="8480:8543" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="8547:9050" ph="/// Step the motor connected to the specified port or ports at the specified speed for the specified number of st ... " />
+            <marker date="1549335968913" expanded="true" signature="9180:9667" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="9671:10153" ph="/// Turn the motor connected to the specified port or ports at the specified power for the specified times. ... " />
+            <marker date="1549335968913" expanded="true" signature="10251:10328" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="10332:10979" ph="/// Turn the motor connected to the specified port or ports at the specified power for the specified times. ... " />
+            <marker date="1549335968913" expanded="true" signature="11107:11584" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="11588:12070" ph="/// Turn the motor connected to the specified port or ports at the specified speed for the specified times. ... " />
+            <marker date="1549335968913" expanded="true" signature="12168:12245" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="12249:12895" ph="/// Turn the motor connected to the specified port or ports at the specified speed for the specified times. ... " />
+            <marker date="1549335968913" expanded="true" signature="13023:13504" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="13508:13745" ph="/// Append the Set Polarity command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="13813:13944" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="13948:14423" ph="/// Synchronize stepping of motors. ... " />
+            <marker date="1549335968913" expanded="true" signature="14520:15027" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="15031:15493" ph="/// Synchronize timing of motors. ... " />
+            <marker date="1549335968913" expanded="true" signature="15590:16097" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="16101:16329" ph="/// Append the Stop Motor command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="16383:16576" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="16580:16683" ph="/// Append the Clear All Devices command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="16715:16800" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="16804:16903" ph="/// Append the Clear Changes command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="16946:17074" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="17078:17382" ph="/// Append the Play Tone command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="17452:17734" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="17738:17974" ph="/// Append the Play Sound command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="18027:18240" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="18244:18533" ph="/// Append the Get Firmware Version command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="18594:18982" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="18986:19241" ph="/// Add the Is Brick Pressed command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="19307:19517" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="19521:19688" ph="/// Append the Set LED Pattern command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="19739:19816" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="19820:19914" ph="/// Append the Clean UI command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="19938:19981" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="19985:20284" ph="/// Append the Draw Line command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="20364:20520" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="20524:20755" ph="/// Append the Draw Pixel command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="20812:20925" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="20929:21348" ph="/// Append the Draw Rectangle command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="21451:21646" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="21650:21948" ph="/// Append the Draw Inverse Rectangle command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="22032:22170" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="22174:22524" ph="/// Append the Draw Circle command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="22610:22785" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="22789:23064" ph="/// Append the Draw Text command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="23133:23268" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="23272:23502" ph="/// Append the Draw Fill Window command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="23566:23686" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="23690:24015" ph="/// Append the Draw Image command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="24091:24235" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="24239:24392" ph="/// Append the Select Font command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="24436:24517" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="24521:24697" ph="/// Append the Enable Top Line command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="24739:24826" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="24830:25280" ph="/// Append the Draw Dotted Line command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="25401:25615" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="25619:25714" ph="/// Append the Update UI command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="25739:25783" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="25787:25955" ph="/// Append the Delete File command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="25999:26078" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="26082:26261" ph="/// Append the Create Directory command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="26310:26394" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="26398:26732" ph="/// Append the Get Type/Mode command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="26806:27274" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="27278:27575" ph="/// Append the Ready SI command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="27634:28028" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="28032:28332" ph="/// Append the Ready Raw command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="28392:28787" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="28791:29095" ph="/// Append the Ready Percent command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="29159:29554" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="29558:29892" ph="/// Append the Get Device Name command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="29963:30238" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="30242:30635" ph="/// Append the Get Mode Name command to an existing Command object ... " />
+            <marker date="1549335968913" expanded="true" signature="30714:31016" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="31020:31208" ph="/// Wait for the specificed output port(s) to be ready for the next command ... " />
+            <marker date="1549335968913" expanded="true" signature="31252:31367" ph="{...}" />
+            <marker date="1549335968913" expanded="true" signature="31371:31534" ph="/// End and send a Command to the EV3 brick. ... " />
+            <marker date="1549335968913" expanded="true" signature="31581:31735" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController/EV3Coder.XamarinController.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EV3Coder.XamarinController/EV3Coder.XamarinController.iOS/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

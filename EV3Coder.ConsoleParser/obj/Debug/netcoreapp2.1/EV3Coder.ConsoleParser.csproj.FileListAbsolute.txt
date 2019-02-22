@@ -1,0 +1,16 @@
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.deps.json
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.runtimeconfig.json
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.runtimeconfig.dev.json
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\EV3Coder.Core.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.csprojAssemblyReference.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.csproj.CoreCompileInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.AssemblyInfoInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.AssemblyInfo.cs
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.csproj.CopyComplete
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\obj\Debug\netcoreapp2.1\EV3Coder.ConsoleParser.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\Lego.Ev3.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.ConsoleParser\bin\Debug\netcoreapp2.1\Lego.Ev3.Core.pdb

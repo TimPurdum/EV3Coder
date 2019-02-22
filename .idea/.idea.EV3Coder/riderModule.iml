@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.nuget/packages/mstest.testadapter/1.4.0/build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/mstest.testadapter/1.4.0/build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/mstest.testadapter/1.4.0/build/netcoreapp1.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.arch.lifecycle.runtime/1.1.1.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.animated.vector.drawable/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.core.ui/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.design/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.media.compat/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.transition/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$USER_HOME$/.nuget/packages/xamarin.android.support.v7.recyclerview/28.0.0.1/proguard/monoandroid81" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/Brick.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/BrickButtons.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/BrickChangedEventArgs.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/Command.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/DataReceivedEventArgs.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/DirectCommand.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/DummyCommunication.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/Enums.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/ICommunication.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/Port.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/Response.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/ResponseManager.cs" />
+    <content url="file://$MODULE_DIR$/../../../../lego/Lego.Ev3.Core/SystemCommand.cs" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

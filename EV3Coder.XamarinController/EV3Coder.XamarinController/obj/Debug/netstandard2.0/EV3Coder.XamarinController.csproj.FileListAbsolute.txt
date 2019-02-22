@@ -1,0 +1,17 @@
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\EV3Coder.XamarinController.deps.json
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\EV3Coder.XamarinController.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\EV3Coder.XamarinController.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\EV3Coder.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\Lego.Ev3.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\EV3Coder.Core.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\bin\Debug\netstandard2.0\Lego.Ev3.Core.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.csprojAssemblyReference.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.csproj.CoreCompileInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.AssemblyInfoInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.AssemblyInfo.cs
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\XamlC.stamp
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.csproj.CopyComplete
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController\EV3Coder.XamarinController\obj\Debug\netstandard2.0\EV3Coder.XamarinController.pdb

@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.Test\\EV3Coder.Test.csproj",
+    "projectName": "EV3Coder.Test",
+    "projectPath": "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.Test\\EV3Coder.Test.csproj",
+    "outputPath": "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.Test\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files (x86)\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.ConsoleParser\\EV3Coder.ConsoleParser.csproj": {
+            "projectPath": "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.ConsoleParser\\EV3Coder.ConsoleParser.csproj"
+          },
+          "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.Core\\EV3Coder.Core.csproj": {
+            "projectPath": "C:\\git\\EV3Coder\\EV3Coder\\EV3Coder.Core\\EV3Coder.Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.4.0, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.4.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

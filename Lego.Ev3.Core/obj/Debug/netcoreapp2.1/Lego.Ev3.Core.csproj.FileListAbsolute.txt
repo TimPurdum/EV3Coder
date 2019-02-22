@@ -1,0 +1,9 @@
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.csprojAssemblyReference.cache
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.csproj.CoreCompileInputs.cache
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.AssemblyInfoInputs.cache
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.AssemblyInfo.cs
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\bin\Debug\netcoreapp2.1\Lego.Ev3.Core.deps.json
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\bin\Debug\netcoreapp2.1\Lego.Ev3.Core.dll
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\bin\Debug\netcoreapp2.1\Lego.Ev3.Core.pdb
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.dll
+C:\git\EV3Coder\EV3Coder\Lego.Ev3.Core\obj\Debug\netcoreapp2.1\Lego.Ev3.Core.pdb

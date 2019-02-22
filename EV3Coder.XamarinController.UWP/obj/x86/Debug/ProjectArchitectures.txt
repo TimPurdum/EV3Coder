@@ -1,0 +1,1 @@
+C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\EV3Coder.XamarinController.UWP.csproj;x86

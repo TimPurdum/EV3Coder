@@ -1,0 +1,12 @@
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\bin\Debug\netstandard2.0\EV3Coder.Core.deps.json
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\bin\Debug\netstandard2.0\EV3Coder.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\bin\Debug\netstandard2.0\EV3Coder.Core.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\bin\Debug\netstandard2.0\Lego.Ev3.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\bin\Debug\netstandard2.0\Lego.Ev3.Core.pdb
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.csprojAssemblyReference.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.csproj.CoreCompileInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.AssemblyInfoInputs.cache
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.AssemblyInfo.cs
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.csproj.CopyComplete
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.dll
+C:\git\EV3Coder\EV3Coder\EV3Coder.Core\obj\Debug\netstandard2.0\EV3Coder.Core.pdb

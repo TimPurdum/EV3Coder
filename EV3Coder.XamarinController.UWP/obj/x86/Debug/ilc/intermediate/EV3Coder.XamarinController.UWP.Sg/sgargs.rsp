@@ -1,0 +1,12 @@
+﻿/ref:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.1\tools\SharedLibrary\chk\AnalysisILToc"
+/ref:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\in\\"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.1\tools\x86\ilc\lib\Private\\"
+/ref:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\in"
+/ref:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.1\tools\csc"
+/out:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\intermediate\SgGenerated\\"
+/int:"C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\intermediate\EV3Coder.XamarinController.UWP.Sg"
+"@C:\git\EV3Coder\EV3Coder\EV3Coder.XamarinController.UWP\obj\x86\Debug\ilc\intermediate\EV3Coder.XamarinController.UWP.Sg\ComputedSerializationInput.txt"
